@@ -1,0 +1,33 @@
+# 🃏 Tarot Online
+
+Uma aplicação interativa e mística desenvolvida com **React** para visualizar de forma online jogos de Tarot. O foco deste projeto é proporcionar uma experiência de usuário fluida, com animações suaves e uma interface responsiva.
+
+---
+
+## 🎨 Preview e Design
+> **Status do Projeto:** 🏗️ Em desenvolvimento (Fase de UI/UX)
+
+O Tarot Online utiliza uma arquitetura baseada em componentes reutilizáveis, garantindo que cada carta e deck possa ser gerenciado de forma independente e eficiente.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **React.js**: Biblioteca base para a interface reativa.
+- **TypeScript**: Para garantir a consistência dos dados das cartas (Arquetípicos, Naipes, Significados).
+- **Tailwind CSS**: Estilização moderna e utilitária.
+
+---
+
+## 🌟 Funcionalidades Planejadas
+
+- [ ] **Biblioteca de cartas**: Para organizar a tiragem com cartas em diferentes estilos.
+- [ ] **Persistência Local**: Salvar a última leitura no navegador.
+
+---
+
+## 🚀 Como Executar
+
+1. **Clone o repositório:**
+```bash
+git clone git@github.com-rubens:RubensAugustoMM/Tarot-Online.git
